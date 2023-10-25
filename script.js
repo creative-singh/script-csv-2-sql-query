@@ -2,7 +2,7 @@ const fs = require("fs");
 
 // Replace these variables with your CSV file path and table name
 const csvFilePath = "data.csv";
-const tableName = "PitchbookLeadershipMapping";
+const tableName = "Table Name";
 
 // Read the CSV file
 fs.readFile(csvFilePath, "utf-8", (err, data) => {
